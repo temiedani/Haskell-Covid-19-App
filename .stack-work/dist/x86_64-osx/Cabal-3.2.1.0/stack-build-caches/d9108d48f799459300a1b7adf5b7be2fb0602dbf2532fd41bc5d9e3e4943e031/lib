@@ -1,0 +1,22 @@
+? /Users/temiedani/Desktop/QMUL/Functional Programming/Practice/covid-project/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/autogen/cabal_macros.h
+: hash: 33477c151c611967774adeee8fd7ce758e12f247e201ac3c7135ff416792f4b7
+/Users/temiedani/Desktop/QMUL/Functional Programming/Practice/covid-project/ChangeLog.md:
+  hash: 4abdc801fba7cd36b6da1449018a4e76120dcb2cfdaab3382b40558dddfada64
+/Users/temiedani/Desktop/QMUL/Functional Programming/Practice/covid-project/src/Database.hs:
+  hash: 6e4d1c538d40057b66b46f959b8d4a5fe0b799633396845a6c361cbd49d5dec9
+/Users/temiedani/Desktop/QMUL/Functional Programming/Practice/covid-project/README.md:
+  hash: 05b8be5ca57235e940eedacd62e8e0f1ee7871bfaa919b08358fccd15f81d6d1
+? /Users/temiedani/Desktop/QMUL/Functional Programming/Practice/covid-project/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/autogen/Paths_covid_project.hs
+: hash: a857aa43263d5cd2f9595c080879ff0d046cbd5a75ae5b70e336484008b87073
+/Users/temiedani/Desktop/QMUL/Functional Programming/Practice/covid-project/package.yaml:
+  hash: b9e2e5947e239b1c5b200ae04dbff5e1bd8defd49a910b8aa4b7722d376be5ce
+/Users/temiedani/Desktop/QMUL/Functional Programming/Practice/covid-project/src/Parse.hs:
+  hash: 6f926e3692edb88fa3645c5bdc095a3f352146145096e233516b5207c81e3cbe
+/Users/temiedani/.stack/programs/x86_64-osx/ghc-8.10.7/lib/ghc-8.10.7/include/ghcversion.h:
+  hash: c013160c9aa8a98f4638616496dce720c23ceca8ef9d6b3212b654642fbda5e4
+/Users/temiedani/Desktop/QMUL/Functional Programming/Practice/covid-project/src/Types.hs:
+  hash: b2275c23e0e5e59ee259325bcc733c2ca9337bc03aaa0281b3168c8eea434001
+/Users/temiedani/Desktop/QMUL/Functional Programming/Practice/covid-project/covid-project.cabal:
+  hash: a2e1b1d560a4f25c13f12da6bac954580600319f81c7c967eeadfbf6dfe57cac
+/Users/temiedani/Desktop/QMUL/Functional Programming/Practice/covid-project/src/Fetch.hs:
+  hash: 21e1f01182013b43178f347ca71b4b802637a9768e413557c0de6adfcefea9e3
